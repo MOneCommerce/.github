@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Welcome to Baseone.
+We provide digital solutions, consultation, and support for Headless Ecommerce.
+Baseone with a skilled and trustworthy development team and Commerce Specialization, confidently provides top-tier Ecommerce development services to businesses looking to construct the most adaptable online shop possible.
+We focus on building solutions, consulting, and supporting customers about Headless Ecommerce.
+
+OUR SERVICES
+1. Headless Commerce Development Services
+2. Mobile Application Development Services
+3. Customize ECommerce Development Services
+
 <!--
 
 **Here are some ideas to get you started:**
